@@ -1,2 +1,1 @@
-# json-formatter
-[Chrome extension] Json formatter
+# Json-formatter
